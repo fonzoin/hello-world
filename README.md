@@ -3,6 +3,8 @@ My first repository. It's not for any project. I may add anything I like to it.
 
 The repository is built based on GitHub "Get started" tutorial.
 ## Something about me
+~~Noob, learning in XDU (Xidian University), a crazy Dragonborn, a loyal Wumi (fans of Wu Bai, an awesome Chinese singer)... All these things mixed up can be ME!!~~(划掉)
+
 Actually I'm an undergraduate in **Xidian University**, majoring in **Computer Science**.
 
 I wish to join front-end development in the future.
